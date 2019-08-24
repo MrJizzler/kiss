@@ -1,4 +1,5 @@
 # KISS
+*inspired by "LinEnum" and "pspy"*
 
 Usage: ./kiss.sh [OPTIONS]...
 
@@ -44,3 +45,8 @@ Options:
 Selection: 
 
 ```
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
+
+
